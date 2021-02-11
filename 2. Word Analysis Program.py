@@ -1,4 +1,6 @@
 #===========================WORD ANALYSIS PROGRAM=================================
+# Developer: Cemil Tepecik
+# Date:09.02.2021
 #Write a program that takes in two words as input and returns a list containing three elements, in the following order:
 #Shared letters between two words. Letters unique to word 1. Letters unique to word 2. Each element of the output should
 #have unique letters, and should be alphabetically sorted. Useset operations.
