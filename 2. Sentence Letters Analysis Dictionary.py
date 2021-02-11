@@ -1,4 +1,6 @@
 #==============SENTENCE LETTERS ANALYSIS DICTIONARY=======================================
+# Developer: Cemil Tepecik
+# Date:08.02.2021
 # Write a code snippet that inputs a sentence from the user, then uses a dictionary to summarize the number of occurrences of each letter.
 # Ignore case, ignore blanks and assume the user does not enter any punctuation.
 # Display a two-column table of the letters and their counts with the letters in sorted order.
