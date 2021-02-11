@@ -1,4 +1,6 @@
 #==============SHIFTING A LIST RIGHT OR LEFT=========================
+# Developer: Cemil Tepecik
+# Date:11.02.2021
 # Write a program that takes two inputs; one of them is a list and the other is a number,
 # and returns the list obtained by shifting the elements in the list m places
 # to the right when m is positive; to the right when m is negative. Use wrap-around: if an element is shifted beyond
